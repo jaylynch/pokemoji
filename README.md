@@ -5,7 +5,7 @@ Pokemon emoji list for [emojipacks](https://github.com/lambtron/emojipacks)
 
 Easily import all of the original 151 Pokemon to your Slack team!
 
-Many thanks to [PokemonGo-Map](https://github.com/AHAAAAAAA/PokemonGo-Map/blob/master/LICENSE) and [Pokéapi](https://pokeapi.co/).
+Many thanks to [PokemonGo-Map](https://github.com/AHAAAAAAA/PokemonGo-Map/) and [Pokéapi](https://pokeapi.co/).
 
 # TLDR
 
