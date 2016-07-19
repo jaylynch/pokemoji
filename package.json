@@ -1,0 +1,23 @@
+{
+  "name": "pokemoji",
+  "version": "0.1.0",
+  "description": "Pokemon emoji lists for emojipacks",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jaylynch/pokemoji.git"
+  },
+  "main": "gen-name-yaml.js",
+  "dependencies": {
+    "async": "^2.0.0",
+    "jsonfile": "^2.3.1",
+    "node-yaml": "^2.0.1",
+    "pokeapi": "0.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "gen-name-yaml": "node gen-name-yaml.js",
+    "test": "echo \"Nope.\" && exit 1"
+  },
+  "author": "Jay Lynch <hi@jaylyn.ch>",
+  "license": "MIT"
+}
